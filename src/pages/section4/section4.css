@@ -1,0 +1,18 @@
+.section4 {
+  font-family: "Poppins", sans-serif;
+  /* width: 85%; */
+  width: 100%;
+  padding: 7rem 8rem;
+  margin: 0 auto;
+  background-color: #f2f7ff;
+  display: flex;
+  align-items: center;
+}
+.section4Div1 {
+  padding: 2rem;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  gap: 3rem;
+  flex-wrap: wrap;
+}

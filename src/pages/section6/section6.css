@@ -1,0 +1,52 @@
+.section6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 7.5rem;
+}
+.section6p {
+  color: var(--green, #00bfa5);
+  font-family: Poppins;
+  font-size: 1.375rem;
+  font-weight: 500;
+  letter-spacing: 0.0275rem;
+}
+.section6part2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.section6Img img {
+  width: 100;
+  padding: 1rem;
+}
+.section6Text {
+  /* background-color: #00bfa5; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  /* padding: .5rem 0; */
+}
+.section6Texth2 {
+  color: var(--dark, #031432);
+  font-size: 2rem;
+  padding: 0.5rem 0;
+}
+.section6Textp {
+  color: var(--Second, #6c87ae);
+  font-family: Sora;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  padding: 1rem;
+  padding: 0.5rem 0;
+  text-align: center;
+}
+.section6Btn {
+  display: flex;
+  gap: 2rem;
+  justify-content: space-around;
+  padding: 0.5rem 0;
+}

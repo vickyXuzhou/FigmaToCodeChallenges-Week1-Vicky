@@ -1,0 +1,16 @@
+.booking {
+  border-radius: 50px;
+  background-color: #3a8ef6;
+  color: white;
+  font-weight: 600;
+  font-size: 1.125rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: content-box;
+  gap: 0.625rem;
+}
+.call {
+  width: 1.5rem;
+  height: 1.5rem;
+}

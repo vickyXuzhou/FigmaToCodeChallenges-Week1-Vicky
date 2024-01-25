@@ -1,0 +1,24 @@
+.squareSec {
+  display: flex;
+  background-color: #3a8ef6;
+  width: 15.2rem;
+  box-sizing: content-box;
+  gap: 7px;
+  padding: 1rem 1.2rem;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  align-items: center;
+  border-radius: 10px;
+}
+.h2SquareText {
+  font-family: Poppins;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+.pSquareText {
+  color: #fff;
+  font-weight: 400;
+  font-family: Sora;
+  font-size: 0.75rem;
+}

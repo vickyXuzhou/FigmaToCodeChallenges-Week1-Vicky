@@ -1,0 +1,14 @@
+.frontPage {
+  background-color: #f2f7ff;
+  position: relative;
+}
+.squareSection {
+  display: flex;
+  justify-content: space-around;
+  /* padding: 4rem 0 6rem 0; */
+  width: 70%;
+  margin: 0 auto;
+  position: absolute;
+  left: 17%;
+  bottom: -2.7rem;
+}

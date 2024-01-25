@@ -1,0 +1,47 @@
+.section2 {
+  display: flex;
+  font-family: "Poppins", sans-serif;
+  width: 100%;
+  margin: 0 auto;
+  /* background-color: white; */
+  justify-content: space-between;
+  padding: 12rem 8rem 4rem 8rem;
+}
+
+.section2Img {
+  width: 50%;
+}
+.section2Img img {
+  width: 100%;
+}
+.section2Text {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 45%;
+}
+.secAboutme {
+  font-size: 1.375rem;
+  font-weight: 500;
+  color: #00bfa5;
+}
+.sectionh2 {
+  color: #031432;
+  font-size: 2rem;
+  font-weight: 600;
+}
+.secP {
+  color: #6c87ae;
+  font-family: Sora;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.sec2Btn {
+  margin: 2rem 0;
+}
+/* @media screen and (max-width: 1000px) {
+  .section2 {
+    background: red;
+    flex-direction: column !important;
+  }
+} */

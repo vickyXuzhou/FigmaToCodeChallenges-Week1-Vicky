@@ -1,0 +1,39 @@
+.header {
+  width: 85%;
+  margin: 0 auto;
+  font-family: "Sora", sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 400;
+  padding: 2rem 0;
+}
+.docNameDiv {
+  position: relative;
+}
+.docName {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #3a8ef6;
+}
+.hospSign {
+  position: absolute;
+  width: 40px;
+  height: 22px;
+  object-fit: cover;
+}
+.navEl {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 2.5rem;
+}
+.list {
+  color: var(--Second, #6c87ae);
+  list-style-type: none;
+  font-size: 1rem;
+}
+.list:hover {
+  color: #3a8ef6;
+  cursor: pointer;
+}
