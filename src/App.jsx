@@ -13,6 +13,8 @@ import ophta2 from "../src/assets/ophta2.png";
 import Section4 from "./pages/section4/Section4";
 import Section5 from "./pages/section5/Section5";
 import Section6 from "./pages/section6/Section6";
+import Section7 from "./pages/section7/Section7";
+import Footer from "./pages/footer/Footer";
 
 function App() {
   return (
@@ -42,6 +44,8 @@ function App() {
       <Section4 />
       <Section5 />
       <Section6 />
+      <Section7 />
+      {/* <Footer /> */}
     </>
   );
 }

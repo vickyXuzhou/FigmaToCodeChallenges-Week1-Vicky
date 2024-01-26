@@ -17,8 +17,14 @@
   align-items: center;
   flex-direction: column;
 }
+.section6Img {
+  width: 80%;
+}
+.section6Text {
+  width: 80%;
+}
 .section6Img img {
-  width: 100;
+  width: 100%;
   padding: 1rem;
 }
 .section6Text {

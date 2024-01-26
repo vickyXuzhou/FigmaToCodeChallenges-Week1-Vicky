@@ -1,0 +1,39 @@
+.section7 {
+  background: #f2f7ff;
+  width: 100%;
+  /* padding: 4rem 7rem; */
+  padding: 4rem 7rem 6rem 7rem;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+}
+.section7text {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 3rem 0;
+}
+.section7text * {
+  padding: 0.6rem 0;
+}
+.section7Texth2 {
+  color: var(--dark, #031432);
+  font-family: Poppins;
+  font-size: 2rem;
+  font-weight: 600;
+}
+.section7Textp {
+  color: var(--Second, #6c87ae);
+  font-family: Sora;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+.section7Component {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 2rem;
+  align-items: center;
+}
